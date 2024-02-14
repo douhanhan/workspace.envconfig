@@ -1,0 +1,23 @@
+[
+	{
+		"name": "devhub",
+		"rootPath": "/Users/meixu/__code/github/devhub",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "douhanhan/workspace.envconfig",
+		"rootPath": "/Users/meixu/__my/github/douhanhan/workspace.envconfig",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "douhanhan/frame.h5.vue_pinia",
+		"rootPath": "/Users/meixu/__my/github/douhanhan/frame.h5.vue_pinia",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]
